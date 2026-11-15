@@ -1,2 +1,1 @@
-# wraithgram-dl
-Wraithgram IPA direct download links
+# Wraithgram direct download links
